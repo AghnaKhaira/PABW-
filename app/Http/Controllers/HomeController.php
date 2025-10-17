@@ -13,6 +13,6 @@ class HomeController extends Controller
 
     public function about()
     {
-        return view('about'); // nanti kita buat file about.blade.php
+        return view('about'); // nanti kita buat file about.blade.ph
     }
 }
