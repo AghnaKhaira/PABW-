@@ -44,7 +44,7 @@
 
     <!-- Footer -->
     <footer class="bg-dark text-white py-4 text-center">
-        &copy; 2027 Favenue. All rights reserved.
+        &copy; 2025 Favenue. All rights reserved.
     </footer>
 
     <!-- Bootstrap JS Bundle -->
